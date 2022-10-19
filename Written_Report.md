@@ -12,7 +12,7 @@ and verify whether the refactored code made the VBA script run faster. Also, it 
 
 
 ## **Results**
-Completed all the requirements as per Deliverable1 
+Completed all the requirements as per the Deliverables 
    - Created the tickerIndex and intialized to 0.
    - Created all the respective arrays for tickers,tickerStartingPrices,tickerEndingPrices.
    - The script looped through all of them respectively.
