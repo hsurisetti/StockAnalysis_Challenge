@@ -7,7 +7,7 @@
 ### **Purpose**
 
 The main pupose of the project is to refactor the Module 2 solution code to loop through all the data in once and collect the same information as we did in Module2 
-and verify whether the refactored code made the VBA script run faster.
+and verify whether the refactored code made the VBA script run faster. Also, it would be helpful to the end users if we are able to prove that, by refactoring the code, we can improve the overall performance of the application. Once the performace improves , it will also lead to better usuability of the application.
 
 
 
@@ -20,6 +20,7 @@ Completed all the requirements as per Deliverable1
    - All the comments are embedded within the modules in respective places.
    - The outputs of the non refactored code and the refactored code exactly.
    - The timer time based of start and ending time has been captured and uploaded
+   - Uploaded the output screenshots of both 2017 and 2018 refactored and non refactored images.
    
 
 
@@ -49,9 +50,11 @@ Completed all the requirements as per Deliverable1
 - **How do these pros and cons apply to refactoring the original VBA script ?**
 
     The pros of refactoring this VBA script invlove , cleaner looking code with better readability
-    The non refactored code had to activate the speadsheets multiple times in the loop to output the data. With the refactored code, we are iterating over the spreadhseet and collecting all the outputs like volumes,starting and ending prices in their arrays and 
-    accessing them in the end to dispaly the output in "All Stock Analysis" sheet.
-    The time taken to run the code using the refactored code is far less than the non refactored code thereby improving the performance of the software tremendously, especially when a large data set is invloved.
+    The non refactored code had to activate the speadsheets multiple times in the loop to output the data. With the refactored code, we are iterating over the spreadhseet and collecting all the outputs like ticker volumes,ticker starting and ticker ending prices in their arrays and 
+    accessing them in the end to display the output in "All Stock Analysis" sheet.
+    The time taken to run the code using the refactored code is far less than the non refactored code thereby improving the performance of the software tremendously, especially when a large data set is involved.
 
-    Some of the cons of the refactored code, although not much in this case is , it takes some extra time to construct new arrays and use them efficiently without going over multiple loops. 
+    Some of the cons of the refactored code, although not much in this case is , it takes a bit of extra time to brainstorm and come of with new efficient ways and construct new arrays and use them efficiently without going over multiple loops. 
+    
+    ***Overall, based on all the observations , we can conclude that refactoring the stock analysis code was a better approach, which the end user would be more happy with.***
 
