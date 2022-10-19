@@ -28,6 +28,12 @@ Completed all the requirements as per Deliverable1
 #### **Stock Analysis of year 2018 with refactoring**
 ![img](https://github.com/hsurisetti/StockAnalysis_Challenge/blob/main/resources/VBA_Challenge_2018_refactored.png)
 
+#### **Stock Analysis of year 2017 without refactoring**
+![img](https://github.com/hsurisetti/StockAnalysis_Challenge/blob/main/resources/VBA_Challenge_2017.png)
+#### **Stock Analysis of year 2017 with refactoring**
+![img](https://github.com/hsurisetti/StockAnalysis_Challenge/blob/main/resources/VBA_Challenge_2017_refactored.png)
+
+
 
 
 ## **Summary**  
